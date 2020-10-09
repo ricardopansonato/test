@@ -1,9 +1,3 @@
-BÍBLIA SAGRADA
-Tradução: João Ferreira de Almeida
-Edição Revista e Corrigida
- 	
-ANTIGO TESTAMENTO
-
 GÊNESIS
  GÊNESIS 1
 1 No princípio criou Deus os céus e a terra.
@@ -23277,7 +23271,6 @@ JOEL
 21 E purificarei o sangue que eu não tinha purificado; porque o Senhor habita em Sião.
 AMÓS
  AMÓS1
-JUÍZOS CONTRA OS VIZINHOS DE ISRAEL
 1 As palavras de Amós, que estava entre os pastores de Tecoa, o que ele viu a respeito de Israel, nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto.
 2 Disse ele: O Senhor brama de Sião, e de Jerusalém faz ouvir a sua voz; os prados dos pastores lamentam, seca-se o cume do Carmelo.
 3 Assim diz o senhor: Por três transgressões de Damasco, sim, por quatro, não retirarei o castigo; porque trilharam a Gileade com trilhos de ferro.
@@ -24116,8 +24109,6 @@ MALAQUIAS
 4 Lembrai-vos da lei de Moisés, meu servo, a qual lhe mandei em Horebe para todo o Israel, a saber, estatutos e ordenanças.
 5 Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível dia do Senhor;
 6 e ele converterá o coração dos pais aos filhos, e o coração dos filhos a seus pais; para que eu não venha, e fira a terra com maldição.
-
-NOVO TESTAMENTO
 MATEUS
  MATEUS 1
 1 Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão.
@@ -30991,7 +30982,6 @@ I TIMÓTEO
 19 entesourando para si mesmos um bom fundamento para o futuro, para que possam alcançar a verdadeira vida.
 20 Ó Timóteo, guarda o depósito que te foi confiado, evitando as conversas vãs e profanas e as oposições da falsamente chamada ciência;
 21 a qual professando-a alguns, se desviaram da fé. A graça seja convosco.
-^Z
 II TIMÓTEO
  II TIMóTEO 1
 1 Paulo, apóstolo de Cristo Jesus pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,
@@ -31079,7 +31069,7 @@ II TIMÓTEO
 19 Saúda a Prisca e a Áquila e à casa de Onesíforo.
 20 Erasto ficou em Corinto; a Trófimo deixei doente em Mileto.
 21 Apressa-te a vir antes do inverno. Saúdam-te Êubulo, Pudente, Lino, Cláudia, e todos os irmãos.
-22 O Senhor seja com o teu espírito. A graça seja convosco. ^Z
+22 O Senhor seja com o teu espírito. A graça seja convosco.
 TITO
  TITO 1
 1 Paulo, servo de Deus, e apóstolo de Jesus Cristo, segundo a fé dos eleitos de Deus, e o pleno conhecimento da verdade que é segundo a piedade,
@@ -32363,7 +32353,3 @@ APOCALIPSE
 19 e se alguém tirar qualquer coisa das palavras do livro desta profecia, Deus lhe tirará a sua parte da árvore da vida, e da cidade santa, que estão descritas neste livro.
 20 Aquele que testifica estas coisas diz: Certamente cedo venho. Amém; vem, Senhor Jesus.
 21 A graça do Senhor Jesus seja com todos.
-
-###########################################
-## Baixado do site: www.umsocorpo.com.br ##
-###########################################
